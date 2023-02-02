@@ -10,8 +10,6 @@ Flask-Cors==3.0.10
 
 
 
-pandas==1.4.2
-pandas-datareader==0.10.0
 
 
 
