@@ -1,0 +1,7 @@
+textblob
+tweepy
+json
+requests
+pandas
+flask
+flask_cors
